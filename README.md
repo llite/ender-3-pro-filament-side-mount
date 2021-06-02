@@ -3,8 +3,8 @@
 A set of parts to relocate the filament spool from the top of the ender 3 to the side.
 Most side mounts seem to have the filament perpendicular to the machine vastly increasing the footprint. This one has the filament parallel to the machine with a filament guide.
 
-![Side mount bracket](/images/bracket.jpg "Ender 3 pro side mount filament")
-![Side mount guide](/images/guide.jpg "Ender 3 pro side mount guide")
+![Side mount bracket](https://github.com/llite/ender-3-pro-filament-side-mount/blob/main/jpg/bracket.jpg "Ender 3 pro side mount filament")
+![Side mount guide](https://github.com/llite/ender-3-pro-filament-side-mount/blob/main/jpg/guide.jpg "Ender 3 pro side mount guide")
 
 The mount was created with topographic design so there is a cavity on the inside. I used Cura's tree supports and had no problem removing them from inside. 
 
